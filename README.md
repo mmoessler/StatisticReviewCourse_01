@@ -1,0 +1,13 @@
+# Statistic Review Course
+
+[comment]: <> ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AStrittmatter/THE-Winter-School/master))
+
+**Approach**
+
+- Blablabla...
+- Blablabla...
+
+**Content**
+
+- Blablabla...
+- Blablabla...
